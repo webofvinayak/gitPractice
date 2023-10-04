@@ -2,3 +2,6 @@ sjdhsajkdhsjkdh
 hello world
 
 this is third line
+
+
+this commit is from cloned directory
